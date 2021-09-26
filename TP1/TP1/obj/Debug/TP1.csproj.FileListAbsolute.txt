@@ -1,0 +1,6 @@
+C:\Users\kyran\Desktop\EFREI\2021-2022\C#\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\kyran\Desktop\EFREI\2021-2022\C#\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\kyran\Desktop\EFREI\2021-2022\C#\TP1\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\kyran\Desktop\EFREI\2021-2022\C#\TP1\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
+C:\Users\kyran\Desktop\EFREI\2021-2022\C#\TP1\TP1\obj\Debug\TP1.exe
+C:\Users\kyran\Desktop\EFREI\2021-2022\C#\TP1\TP1\obj\Debug\TP1.pdb
